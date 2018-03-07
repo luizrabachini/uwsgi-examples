@@ -1,4 +1,4 @@
 uWSGI Examples
 ==============
 
-Basic examples to config and run python web applications using [uwsgi](http://uwsgi-docs.readthedocs.io/en/latest/index.html).
+Basic examples to configure and run python web applications using [uwsgi](http://uwsgi-docs.readthedocs.io/en/latest/index.html).
